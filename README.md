@@ -1,5 +1,5 @@
 # nyantendo
-A port of Nyan Cat for the NES
+## A port of Nyan Cat for the NES
 
 Made with Visual Studio Code, CC65, Famitracker, NESST, YYCHR and Adobe Photoshop
 
